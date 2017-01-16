@@ -1,0 +1,18 @@
+{
+  "name": "aui-sass-formatter",
+  "main": "./lib/aui-sass-formatter",
+  "version": "0.0.1",
+  "description": "Format your properties",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "aui-sass-formatter:toggle"
+  },
+  "repository": "https://github.com/Notinkham/sass-formatter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

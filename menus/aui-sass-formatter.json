@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle aui-sass-formatter",
+        "command": "aui-sass-formatter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "aui-sass-formatter",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "aui-sass-formatter:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
